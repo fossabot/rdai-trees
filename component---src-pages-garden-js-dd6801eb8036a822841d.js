@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{qzOB:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),r=t.n(a),l=t("Wbzz"),o=t("Bl7J"),u=t("vrFN");n.default=function(){return r.a.createElement(o.a,null,r.a.createElement(u.a,{title:"Your Garden"}),r.a.createElement("h1",null,"Your garden"),r.a.createElement("p",null,"Currently growing"),r.a.createElement("p",null,"2 trees per month"),r.a.createElement(l.Link,{to:"/"},"Back to home"))}}}]);
+//# sourceMappingURL=component---src-pages-garden-js-dd6801eb8036a822841d.js.map
